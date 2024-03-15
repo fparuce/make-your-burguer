@@ -6,12 +6,16 @@ Utilizando json-server como pseudo-backend.
 ## Project setup
 ```
 npm install
+```
+```
 npm install json-server
 ```
 
 ### Compiles and hot-reloads for development
 ```
 npm run backend
+```
+```
 npm run serve
 ```
 
